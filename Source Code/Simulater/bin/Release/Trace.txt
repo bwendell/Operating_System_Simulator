@@ -1,0 +1,903 @@
+System finished reading config (3ms)
+System finished reading metaData (22612ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (599ms)
+System finished reading config (5ms)
+System finished reading metaData (50924ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (599ms)
+System finished reading config (4ms)
+System finished reading metaData (13ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (599ms)
+System finished reading config (4ms)
+System finished reading metaData (10ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (600ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (349ms)
+System finished reading config (3ms)
+System finished reading metaData (155963ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (599ms)
+System finished reading config (4ms)
+System finished reading metaData (187630ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (599ms)
+System finished reading config (4ms)
+System finished reading metaData (18631ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (599ms)
+System finished reading config (5ms)
+System finished reading metaData (2993ms)
+System finished reading config (4ms)
+System finished reading metaData (3916ms)
+System finished reading config (3ms)
+System finished reading metaData (7322ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (599ms)
+System finished reading config (3ms)
+System finished reading metaData (8ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (599ms)
+System finished reading config (3ms)
+System finished reading metaData (6ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (599ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (349ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (15000ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (49ms)
+PID 0 - finished processing (89ms)
+PID 0 - finished processing (79ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (699ms)
+PID 0 - finished processing (99ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (324ms)
+System finished reading config (5ms)
+System finished reading metaData (7ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (599ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (349ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (14999ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (49ms)
+PID 0 - finished processing (89ms)
+PID 0 - finished processing (79ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (699ms)
+PID 0 - finished processing (99ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (324ms)
+System finished reading config (3ms)
+System finished reading metaData (10ms)
+PID 1 - finished processing (89ms)
+PID 1 - Starting keyboard I/O
+SYSTEM - swapping processes
+PID 0 - finished processing (119ms)
+PID 0 - Starting keyboard I/O
+PID 1 - finished keyboard (5000ms)
+PID 1 - finished processing (59ms)
+PID 1 - Starting hard drive I/O
+PID 0 - finished keyboard (4999ms)
+PID 0 - finished processing (49ms)
+PID 0 - Starting monitor I/O
+PID 1 - finished hard drive (249ms)
+PID 0 - finished monitor (124ms)
+PID 1 - finished processing (139ms)
+PID 1 - Process finished
+PID 0 - finished processing (39ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (249ms)
+PID 0 - finished processing (59ms)
+PID 0 - Process finished
+System finished reading config (3ms)
+System finished reading metaData (11ms)
+PID 0 - finished processing (119ms)
+PID 0 - Starting keyboard I/O
+SYSTEM - swapping processes
+PID 1 - finished processing (89ms)
+PID 1 - Starting keyboard I/O
+PID 0 - finished keyboard (5000ms)
+PID 0 - finished processing (49ms)
+PID 0 - Starting monitor I/O
+PID 1 - finished keyboard (4999ms)
+PID 1 - finished processing (59ms)
+PID 1 - Starting hard drive I/O
+PID 0 - finished monitor (124ms)
+SYSTEM - swapping processes
+PID 0 - finished processing (39ms)
+PID 0 - Starting hard drive I/O
+PID 1 - finished hard drive (249ms)
+PID 0 - finished hard drive (249ms)
+PID 1 - finished processing (139ms)
+PID 1 - Process finished
+PID 0 - finished processing (59ms)
+PID 0 - Process finished
+System finished reading config (4ms)
+System finished reading metaData (11ms)
+PID 0 - finished processing (119ms)
+PID 0 - Starting keyboard I/O
+SYSTEM - swapping processes
+PID 1 - finished processing (89ms)
+PID 1 - Starting keyboard I/O
+PID 0 - finished keyboard (4999ms)
+PID 0 - finished processing (49ms)
+PID 0 - Starting monitor I/O
+PID 1 - finished keyboard (5000ms)
+PID 1 - finished processing (59ms)
+PID 0 - finished monitor (124ms)
+PID 1 - Starting hard drive I/O
+SYSTEM - swapping processes
+PID 0 - finished processing (39ms)
+PID 0 - Starting hard drive I/O
+PID 1 - finished hard drive (249ms)
+PID 0 - finished hard drive (249ms)
+PID 1 - finished processing (139ms)
+PID 1 - Process finished
+PID 0 - finished processing (59ms)
+PID 0 - Process finished
+System finished reading config (4ms)
+System finished reading metaData (12ms)
+PID 0 - finished processing (120ms)
+PID 0 - Starting keyboard I/O
+SYSTEM - swapping processes
+PID 2 - finished processing (119ms)
+PID 2 - Starting hard drive I/O
+SYSTEM - swapping processes
+PID 1 - finished processing (89ms)
+PID 1 - Starting keyboard I/O
+PID 2 - finished hard drive (249ms)
+PID 2 - finished processing (129ms)
+PID 2 - Starting hard drive I/O
+PID 2 - finished hard drive (249ms)
+PID 2 - finished processing (119ms)
+PID 2 - Starting hard drive I/O
+PID 2 - finished hard drive (249ms)
+PID 2 - finished processing (89ms)
+PID 2 - Process finished
+PID 0 - finished keyboard (4999ms)
+PID 0 - finished processing (49ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (124ms)
+PID 0 - finished processing (39ms)
+PID 0 - Starting hard drive I/O
+PID 1 - finished keyboard (4999ms)
+PID 1 - finished processing (59ms)
+PID 1 - Starting hard drive I/O
+PID 0 - finished hard drive (249ms)
+PID 0 - finished processing (59ms)
+PID 0 - Process finished
+PID 1 - finished hard drive (249ms)
+PID 1 - finished processing (139ms)
+PID 1 - Process finished
+System finished reading config (3ms)
+System finished reading metaData (12ms)
+PID 2 - finished processing (119ms)
+PID 2 - Starting hard drive I/O
+SYSTEM - swapping processes
+PID 1 - finished processing (89ms)
+PID 1 - Starting keyboard I/O
+SYSTEM - swapping processes
+PID 2 - finished hard drive (250ms)
+PID 2 - finished processing (130ms)
+PID 2 - Starting hard drive I/O
+SYSTEM - swapping processes
+PID 0 - finished processing (271ms)
+PID 0 - Starting keyboard I/O
+PID 2 - finished hard drive (249ms)
+PID 2 - finished processing (119ms)
+PID 2 - Starting hard drive I/O
+PID 2 - finished hard drive (250ms)
+PID 2 - finished processing (89ms)
+PID 2 - Process finished
+PID 1 - finished keyboard (4999ms)
+PID 1 - finished processing (59ms)
+PID 1 - Starting hard drive I/O
+PID 0 - finished keyboard (5000ms)
+PID 1 - finished hard drive (250ms)
+PID 1 - finished processing (140ms)
+PID 1 - Process finished
+PID 0 - finished processing (200ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (124ms)
+PID 0 - finished processing (39ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (249ms)
+PID 0 - finished processing (60ms)
+PID 0 - Process finished
+System finished reading config (4ms)
+System finished reading metaData (8ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (600ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (349ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (14999ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (549ms)
+PID 0 - finished processing (89ms)
+PID 0 - finished processing (80ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (699ms)
+PID 0 - finished processing (99ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (324ms)
+PID 0 - finished processing (89ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (149ms)
+PID 0 - finished processing (139ms)
+PID 0 - Process finished
+System finished reading config (4ms)
+System finished reading metaData (8ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (600ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (349ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (15000ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (549ms)
+PID 0 - finished processing (89ms)
+PID 0 - finished processing (79ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (700ms)
+PID 0 - finished processing (99ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (324ms)
+PID 0 - finished processing (89ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (150ms)
+PID 0 - finished processing (139ms)
+PID 0 - Process finished
+System finished reading config (4ms)
+System finished reading metaData (11ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (600ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (349ms)
+PID 0 - Starting keyboard I/O
+System finished reading config (4ms)
+System finished reading metaData (9ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (600ms)
+System finished reading config (4ms)
+System finished reading metaData (11ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (600ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (349ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (15000ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (549ms)
+PID 0 - finished processing (89ms)
+PID 0 - finished processing (79ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (700ms)
+PID 0 - finished processing (99ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (324ms)
+PID 0 - finished processing (89ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (149ms)
+PID 0 - finished processing (139ms)
+PID 0 - Process finished
+System finished reading config (5ms)
+System finished reading metaData (8ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (599ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (349ms)
+PID 0 - Starting keyboard I/O
+System finished reading config (5ms)
+System finished reading metaData (10ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (599ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (349ms)
+System finished reading config (4ms)
+System finished reading metaData (9ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (600ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (350ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (14999ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (549ms)
+PID 0 - finished processing (90ms)
+PID 0 - finished processing (80ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (699ms)
+PID 0 - finished processing (99ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (325ms)
+PID 0 - finished processing (89ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (149ms)
+PID 0 - finished processing (139ms)
+PID 0 - Process finished
+System finished reading config (4ms)
+System finished reading metaData (9ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (500ms)
+PID 0 - finished processing (119ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (374ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (8999ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (124ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (299ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (299ms)
+PID 0 - finished processing (79ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (10000ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (349ms)
+PID 0 - finished processing (90ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (7000ms)
+System finished reading config (3ms)
+System finished reading metaData (12ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (500ms)
+System finished reading config (6ms)
+System finished reading metaData (7ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (500ms)
+System finished reading config (4ms)
+System finished reading metaData (7ms)
+System finished reading config (4ms)
+System finished reading metaData (8ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (500ms)
+System finished reading config (5ms)
+System finished reading metaData (9ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (500ms)
+SYSTEM - swapping processes
+SYSTEM - swapping processes
+SYSTEM - swapping processes
+SYSTEM - swapping processes
+PID 0 - finished processing (121ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (374ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (8999ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (124ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (299ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (299ms)
+SYSTEM - swapping processes
+SYSTEM - swapping processes
+PID 0 - finished processing (80ms)
+SYSTEM - swapping processes
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (9999ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (349ms)
+SYSTEM - swapping processes
+SYSTEM - swapping processes
+SYSTEM - swapping processes
+PID 0 - finished processing (91ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (7000ms)
+System finished reading config (4ms)
+System finished reading metaData (9ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (499ms)
+SYSTEM - swapping processes
+SYSTEM - swapping processes
+SYSTEM - swapping processes
+SYSTEM - swapping processes
+PID 0 - finished processing (122ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (374ms)
+PID 0 - Starting keyboard I/O
+System finished reading config (6ms)
+System finished reading metaData (9ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (499ms)
+SYSTEM - swapping processes
+SYSTEM - swapping processes
+SYSTEM - swapping processes
+SYSTEM - swapping processes
+SYSTEM - swapping processes
+PID 0 - finished processing (122ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (374ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (8999ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (124ms)
+SYSTEM - swapping processes
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (299ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (299ms)
+SYSTEM - swapping processes
+SYSTEM - swapping processes
+SYSTEM - swapping processes
+PID 0 - finished processing (81ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (10000ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (350ms)
+SYSTEM - swapping processes
+SYSTEM - swapping processes
+SYSTEM - swapping processes
+PID 0 - finished processing (91ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (7000ms)
+System finished reading config (6ms)
+System finished reading metaData (8ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (500ms)
+SYSTEM - swapping processes
+SYSTEM - swapping processes
+SYSTEM - swapping processes
+SYSTEM - swapping processes
+PID 0 - finished processing (121ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (374ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (8999ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (124ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (299ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (299ms)
+SYSTEM - swapping processes
+SYSTEM - swapping processes
+PID 0 - finished processing (80ms)
+SYSTEM - swapping processes
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (10000ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (349ms)
+SYSTEM - swapping processes
+SYSTEM - swapping processes
+SYSTEM - swapping processes
+PID 0 - finished processing (91ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (7000ms)
+System finished reading config (4ms)
+System finished reading metaData (9ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (500ms)
+SYSTEM - swapping processes
+SYSTEM - swapping processes
+SYSTEM - swapping processes
+SYSTEM - swapping processes
+PID 0 - finished processing (121ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (374ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (8999ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (124ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (299ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (299ms)
+SYSTEM - swapping processes
+SYSTEM - swapping processes
+PID 0 - finished processing (80ms)
+SYSTEM - swapping processes
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (9999ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (350ms)
+SYSTEM - swapping processes
+SYSTEM - swapping processes
+SYSTEM - swapping processes
+PID 0 - finished processing (91ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (6999ms)
+System finished reading config (5ms)
+System finished reading metaData (9ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (500ms)
+PID 0 - finished processing (119ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (374ms)
+System finished reading config (3ms)
+System finished reading metaData (10ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (500ms)
+PID 0 - finished processing (119ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (374ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (9000ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (124ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (299ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (299ms)
+PID 0 - finished processing (79ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (10000ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (349ms)
+PID 0 - finished processing (89ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (7000ms)
+System finished reading config (9ms)
+System finished reading metaData (10ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (499ms)
+PID 0 - finished processing (119ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (374ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (8999ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (125ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (299ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (299ms)
+PID 0 - finished processing (79ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (9999ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (349ms)
+PID 0 - finished processing (89ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (7000ms)
+System finished reading config (5ms)
+System finished reading metaData (11ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (499ms)
+PID 0 - finished processing (119ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (374ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (8999ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (124ms)
+System finished reading config (4ms)
+System finished reading metaData (10ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (499ms)
+PID 0 - finished processing (119ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (374ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (8999ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (125ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (299ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (300ms)
+PID 0 - finished processing (79ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (10000ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (349ms)
+PID 0 - finished processing (89ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (6999ms)
+System finished reading config (3ms)
+System finished reading metaData (9ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (500ms)
+PID 0 - finished processing (120ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (375ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (8999ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (124ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (299ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (299ms)
+PID 0 - finished processing (79ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (10000ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (349ms)
+PID 0 - finished processing (89ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (7000ms)
+System finished reading config (5ms)
+System finished reading metaData (10ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (499ms)
+PID 0 - finished processing (119ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (374ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (8999ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (124ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (300ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (299ms)
+PID 0 - finished processing (79ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (9999ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (349ms)
+PID 0 - finished processing (89ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (7000ms)
+System finished reading config (4ms)
+System finished reading metaData (10ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (500ms)
+PID 0 - finished processing (119ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (374ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (8999ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (125ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (299ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (299ms)
+PID 0 - finished processing (79ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (10000ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (349ms)
+PID 0 - finished processing (89ms)
+PID 0 - Starting keyboard I/O
+System finished reading config (3ms)
+System finished reading metaData (11ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (500ms)
+PID 0 - finished processing (119ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (374ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (8999ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (124ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (299ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (299ms)
+PID 0 - finished processing (79ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (9999ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (349ms)
+PID 0 - finished processing (89ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (6999ms)
+System finished reading config (4ms)
+System finished reading metaData (10ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (499ms)
+PID 0 - finished processing (119ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (374ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (8999ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (124ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (299ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (299ms)
+PID 0 - finished processing (79ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (10000ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (349ms)
+PID 0 - finished processing (89ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (7000ms)
+System finished reading config (4ms)
+System finished reading metaData (13ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (500ms)
+PID 0 - finished processing (119ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (374ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (9000ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (124ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (299ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (299ms)
+PID 0 - finished processing (79ms)
+PID 0 - Starting keyboard I/O
+System finished reading config (4ms)
+System finished reading metaData (9ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (500ms)
+PID 0 - finished processing (119ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (374ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (9000ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (124ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (299ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (299ms)
+PID 0 - finished processing (79ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (9999ms)
+PID 0 - Starting hard drive I/O
+System finished reading config (4ms)
+System finished reading metaData (10ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (499ms)
+PID 0 - finished processing (119ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (374ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (9000ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (124ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (299ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (299ms)
+PID 0 - finished processing (79ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (10000ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (349ms)
+System finished reading config (4ms)
+System finished reading metaData (12ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (499ms)
+PID 0 - finished processing (119ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (374ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (9000ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (124ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (299ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (300ms)
+PID 0 - finished processing (79ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (10000ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (350ms)
+PID 0 - finished processing (89ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (7000ms)
+System finished reading config (3ms)
+System finished reading metaData (9ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (500ms)
+PID 0 - finished processing (119ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (374ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (8999ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (124ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (299ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (299ms)
+PID 0 - finished processing (79ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (9999ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (349ms)
+PID 0 - finished processing (89ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (7000ms)
+System finished reading config (5ms)
+System finished reading metaData (9ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (500ms)
+PID 0 - finished processing (119ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (375ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (8999ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (124ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (299ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (299ms)
+PID 0 - finished processing (79ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (9999ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (349ms)
+PID 0 - finished processing (90ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (6999ms)
+System finished reading config (4ms)
+System finished reading metaData (10ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (500ms)
+PID 0 - finished processing (119ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (374ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (8999ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (124ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (299ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (299ms)
+PID 0 - finished processing (79ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (9999ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (349ms)
+PID 0 - finished processing (89ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (6999ms)
+System finished reading config (5ms)
+System finished reading metaData (8ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (500ms)
+PID 0 - finished processing (119ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (374ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (8999ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (124ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (299ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (299ms)
+PID 0 - finished processing (80ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (10000ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (349ms)
+PID 0 - finished processing (90ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (6999ms)
+System finished reading config (3ms)
+System finished reading metaData (7ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (500ms)
+PID 0 - finished processing (120ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (374ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (8999ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (124ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (299ms)
+PID 0 - Starting monitor I/O
+PID 0 - finished monitor (299ms)
+PID 0 - finished processing (80ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (9999ms)
+PID 0 - Starting hard drive I/O
+PID 0 - finished hard drive (349ms)
+PID 0 - finished processing (90ms)
+PID 0 - Starting keyboard I/O
+PID 0 - finished keyboard (7000ms)

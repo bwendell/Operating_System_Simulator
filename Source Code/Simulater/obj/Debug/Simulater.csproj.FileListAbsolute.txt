@@ -1,0 +1,6 @@
+C:\Users\Benjamin\Source\Workspaces\Workspace\OS Sim\Simulater\Simulater\bin\Debug\Simulater.exe.config
+C:\Users\Benjamin\Source\Workspaces\Workspace\OS Sim\Simulater\Simulater\bin\Debug\Simulater.exe
+C:\Users\Benjamin\Source\Workspaces\Workspace\OS Sim\Simulater\Simulater\bin\Debug\Simulater.pdb
+C:\Users\Benjamin\Source\Workspaces\Workspace\OS Sim\Simulater\Simulater\obj\Debug\Simulater.csprojResolveAssemblyReference.cache
+C:\Users\Benjamin\Source\Workspaces\Workspace\OS Sim\Simulater\Simulater\obj\Debug\Simulater.exe
+C:\Users\Benjamin\Source\Workspaces\Workspace\OS Sim\Simulater\Simulater\obj\Debug\Simulater.pdb

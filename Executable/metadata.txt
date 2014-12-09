@@ -1,0 +1,6 @@
+S(start)0; A(start)0; P(run)13; I(keyboard)5; P(run)6; O(monitor)5;
+P(run)5; I(hard drive)5; P(run)7; A(end)0; A(start)0; P(run)10; I(keyboard)5; P(run)7;
+O(hard drive)5; P(run)15; A(end)0; A(start)0; P(run)13; I(hard drive)5; P(run)14;
+O(hard drive)5; P(run)13; I(hard drive)5; P(run)10; A(end); A(start)0; P(run)13; I(keyboard)5;
+P(run)6; O(monitor)5; P(run)5; I(hard drive)5; P(run)7; A(end)0; A(start)0; P(run)10; I(keyboard)5;
+P(run)7; O(hard drive)5; P(run)15; A(end)0; S(end)0.
